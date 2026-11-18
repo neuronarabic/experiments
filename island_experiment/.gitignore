@@ -1,0 +1,4 @@
+__pycache__/
+.codex-home/
+runs/*/codex_*
+runs/*/state.tmp
